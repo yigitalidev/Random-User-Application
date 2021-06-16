@@ -8,7 +8,7 @@ EN : The purpose of this project is to draw the users from an API we have determ
 
 1 :
 
-![resim](https://user-images.githubusercontent.com/74410669/122283053-cf49e280-cef4-11eb-9a91-8c25835e8b09.png)
+![resim](https://user-images.githubusercontent.com/74410669/122283516-4bdcc100-cef5-11eb-9a91-d866e46c00ca.png)
 
 TR : Sonra sayfayı refresh ediyorum.
 
@@ -18,6 +18,7 @@ EN : Then I refresh the page.
 
 2 :
 
-![resim](https://user-images.githubusercontent.com/74410669/122283417-2f408900-cef5-11eb-9752-b799c24eca18.png)
+![resim](https://user-images.githubusercontent.com/74410669/122283483-43848600-cef5-11eb-9048-bd5cabb5b423.png)
+
 
 
